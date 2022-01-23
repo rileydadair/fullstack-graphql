@@ -3,5 +3,90 @@
     "id": "jBWMVGjm50l6LGwepDoty",
     "username": "frontendmaster"
   },
-  "pet": []
+  "pet": [
+    {
+      "id": "uOKe8yDN1AsPROD0UgYoA",
+      "createdAt": 1642871818746,
+      "name": "batman",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "20mWbI2E95BJ-lghnITET",
+      "createdAt": 1642871926527,
+      "name": "Rambo",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "YSRVpPXjpPNDOzqn5hMfF",
+      "createdAt": 1642872053440,
+      "name": "Garfield",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "Y7BDqgC0j7k9kFWDYCMkG",
+      "createdAt": 1642953527897,
+      "name": "Whiskers",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "T7DvOmaPxSEiLAIWYiQCz",
+      "createdAt": 1642955239852,
+      "name": "sdfdsaf",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "2kHPQP53JLsWvCyl91Mq6",
+      "createdAt": 1642955639686,
+      "name": "Carroll",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "0abHGhR_KfAMczrLsouU5",
+      "createdAt": 1642957033388,
+      "name": "sdfsdfs",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "1iPtGBGajO167iJmIbGSI",
+      "createdAt": 1642957261536,
+      "name": "Shelly",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "AuSZjZ0Sd6VUwo7jhs7iR",
+      "createdAt": 1642957346431,
+      "name": "Rocko",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "X8tDl7d74XWboOEK0T6GB",
+      "createdAt": 1642957356062,
+      "name": "sdfasdfa",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "Vk-JgBZkp8kpl6sgIQ7rf",
+      "createdAt": 1642957392304,
+      "name": "Clawz",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "2hr6YUOphl-pkWQYwTFgt",
+      "createdAt": 1642957409836,
+      "name": "Klawz",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    }
+  ]
 }
